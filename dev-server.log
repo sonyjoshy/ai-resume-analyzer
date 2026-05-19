@@ -1,0 +1,25 @@
+
+> dev
+> react-router dev
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://localhost:[1m5173[22m/[39m
+[2m  [32m➜[39m  [1mNetwork[22m[2m: use [22m[1m--host[22m[2m to expose[22m
+[2m7:11:42 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32m✨ new dependencies optimized: [33mzustand[32m[39m
+[2m7:12:11 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32m✨ new dependencies optimized: [33mclsx, pdfjs-dist/build/pdf.mjs, react-dropzone, tailwind-merge[32m[39m
+[2m7:19:51 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/app/routes/upload.tsx[22m
+[2m7:19:51 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/app/routes/upload.tsx[22m
+[2m7:19:51 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/app/app.css, /app/routes/upload.tsx[22m
+[2m7:19:51 pm[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2mapp/lib/pdf2img.ts[22m
+[2m8:21:13 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/app/routes/upload.tsx[22m
+[2m8:21:13 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/app/routes/upload.tsx[22m
+[2m8:21:13 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/app/app.css, /app/routes/upload.tsx[22m
+[2m8:21:13 pm[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2mapp/routes/upload.tsx[22m
+[2m8:32:09 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/app/root.tsx, /app/routes/home.tsx, /app/components/ResumeCard.tsx, /app/routes/auth.tsx, /app/routes/upload.tsx[22m
+[2m8:32:09 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/app/root.tsx, /app/routes/home.tsx, /app/components/ResumeCard.tsx, /app/routes/auth.tsx, /app/routes/upload.tsx[22m
+[2m8:32:09 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/app/app.css, /app/root.tsx, /app/routes/home.tsx, /app/components/ResumeCard.tsx, /app/routes/auth.tsx, /app/routes/upload.tsx[22m
+[2m8:32:09 pm[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2mapp/lib/puter.ts[22m
+[2m8:32:09 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/app/routes/upload.tsx[22m
+[2m8:32:09 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/app/routes/upload.tsx[22m
+[2m8:32:09 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/app/app.css, /app/routes/upload.tsx[22m
+[2m8:32:09 pm[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2mapp/routes/upload.tsx[22m
+[2m8:36:22 pm[22m [36m[1m[react-router][22m[39m [32mConfig saved[39m

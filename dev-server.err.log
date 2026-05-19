@@ -1,0 +1,3 @@
+[2m7:12:49 pm[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [31m[Unhandled rejection] [1mUnknown Error[22m: Model not found: Claude-3-7-sonnet
+[39m
+[2m8:29:38 pm[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22m{"error":"Model not found: Claude-3-7-sonnet","message":"Model not found: Claude-3-7-sonnet","code":"bad_request"}
