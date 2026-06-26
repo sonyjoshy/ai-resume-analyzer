@@ -49,4 +49,4 @@ An AI-powered web application that evaluates resumes against job requirements an
 ## 👩‍💻 Author
 
 Sony Joseph  
-GitHub: https://github.com/sonyjoshy21-crypto
+GitHub: https://github.com/sonyjoshy
